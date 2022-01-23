@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkphonebook_netlify=self.webpackChunkphonebook_netlify||[]).push([[678],{350:function(e,n,t){t.r(n);var o=t(184);n.default=function(){return(0,o.jsx)("h2",{className:"section__title",children:"AboutView"})}}}]);
+//# sourceMappingURL=AboutView.92ee83e7.chunk.js.map
